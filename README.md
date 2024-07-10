@@ -11,10 +11,15 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 1. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/1.jpg)
+
 2. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/2.jpg)
+
 3. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/3.jpg)
+
 4. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/ран1.jpg)
+
 5. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/ран2.jpg)
+
 6. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/ран%203.jpg)
 
 Задание 2
@@ -30,5 +35,7 @@
 скриншоты с успешно собранными сборками.
 
 1. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/пуш1.jpg)
+
 2. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/посссс.jpg)
+
 3. ![alt text](https://github.com/sAslank/GitLab/blob/main/img/послед1.jpg)
